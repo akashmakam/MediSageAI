@@ -11,9 +11,10 @@ A web-based AI health assistant powered by IBM Watson and Flask.
 ## 🚀 How to Run Locally
 
 1. **Clone the repo**
-   git clone https://github.com/yourname/medisage-chatbot.git
-   cd medisage-chatbot
+   git clone https://github.com/akashmakam/MediSageAI.git
+   cd MediSageAI
 
 2. **Run the app**
 python app.py
+
 Visit http://localhost:8080 in your browser
