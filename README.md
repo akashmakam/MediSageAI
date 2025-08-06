@@ -24,7 +24,7 @@ The system retrieves verified medical data from trusted sources such as:
 - Government health portals  
 - Peer-reviewed medical journals  
 
-Users can input symptoms in natural language (e.g., _“I have a sore throat and fever”_). The chatbot responds with:
+Users can input symptoms in natural language (e.g., _“I have a sore throat and fever”_). The AI agent responds with:
 
 - Possible conditions  
 - Urgency level  
@@ -63,3 +63,4 @@ python app.py
 
 ### 3. Open in browser
 Visit: http://localhost:8080
+
