@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import requests
 
-app = Flask(__name__, static_url_path='/static')  # This enables /static/ access by default
+app = Flask(__name__, static_url_path='/static')
 
 # IBM Watson credentials
 API_KEY = "Fn6si-el8bo8bnniDAygBaWupNpOfnZHoGAU1oMADB1I"
