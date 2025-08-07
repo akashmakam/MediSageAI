@@ -1,5 +1,7 @@
 # MediSage – Your AI Pocket Health Assistant
 
+##I have used maximum tokens allowed by Lite, so the bot is not currently working.
+
 A web-based AI health assistant powered by **IBM Watson** and **Flask**.
 
 This project was created as part of the **AICTE – Edunet IBM SkillsBuild Internship**, a program focused on developing practical skills in AI, cloud computing, and responsible tech development.
@@ -63,4 +65,5 @@ python app.py
 
 ### 3. Open in browser
 Visit: http://localhost:8080
+
 
