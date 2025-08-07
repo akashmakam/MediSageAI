@@ -1,6 +1,6 @@
 # MediSage – Your AI Pocket Health Assistant
 
-##I have used maximum tokens allowed by Lite, so the bot is not currently working.
+## I have used maximum tokens allowed by Lite for the month, so the bot is not currently working.
 
 A web-based AI health assistant powered by **IBM Watson** and **Flask**.
 
@@ -65,5 +65,6 @@ python app.py
 
 ### 3. Open in browser
 Visit: http://localhost:8080
+
 
 
